@@ -30,6 +30,7 @@ public class App6Application implements CommandLineRunner{
 	
 	public static void main(String[] args) {
 		SpringApplication.run(App6Application.class, args);
+		System.out.println("Hello Suresh");
 	}
 
 	@Override
